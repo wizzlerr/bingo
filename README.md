@@ -6,7 +6,7 @@ Printng template [here](https://wizzlerr.github.io/bingo/)
 
 1. Game resets every monday
 2. Person with most points wins
-3. Decalring scores should be done by going to active week issue and putting comment
+3. Declaring scores should be done by going to active week issue and putting comment
 
 **Bingo types**
 
