@@ -11,7 +11,7 @@ Printing template [here](https://wizzlerr.github.io/bingo/)
 **Bingo types**
 
 1. Small bingo - you mark 4 consecutive field that have **BINGO** as middle field
-2. Bingo - you makr 5 consecutive fields
+2. Bingo - you mark 5 consecutive fields
 3. King bingo - you mark at least 2 bingos at the same time
 
 **Scoring**
