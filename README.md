@@ -21,6 +21,21 @@ Printng template [here](https://wizzlerr.github.io/bingo/)
 3. King bingo - 4 points + 1 point for each bingo above 2
 4. Having ratio of scoring_templates/printed_templates less than 50% decreses your points accordingly : your_final_points = scored_points * (100% - (50% - ratio))
 
+**Marking/Crossing out**
+
+1. You can cross out events that happened **AFTER** printing template
+2. You can cross out events that only happened directly to you
+3. You cannot cross out events that happened in past
+4. You cannot cross out ongoing events (e.g. ongoing issue that gets updates couple times a day)
+5. You cannot forcibly check components/environemnts (it must be related to your task)
+6. You cannot forcibly check logs (it must be related to your task)
+7. Events in logs are first come first served
+8. Events at meeting apply to everyone
+9. Business logic events are first come first served
+10. Evnironment events are first come first served
+11. Issues under investigation events (e.g. for person A functionality works, for B and C does not) apply to everyone
+12. Not mentioned events or crossin-out related activities must be discussed upon and resolved. Finalizing in adding a new rule here
+
 **Template printing**
 
 1. You are allowed to have up to 3 printed templated at a time
