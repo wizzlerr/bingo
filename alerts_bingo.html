@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+td {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  padding: 20px;
+  font-size: 10px;
+}
+
+.bingo {
+	background-color: orange;
+    color: white;
+    font-size: 1em;
+}
+
+</style>
+</head>
+<body>
+
+<table id='table' border="1">
+</table>
+
+<script>
+var questions = ['CASSANDRA CONNECTION DOWN', 'ZOO KEEPER DOWN', 'PCC-SERVER-EMAIL-STANDALONE FAILS', 'DEPLOYED FAILED BUT ITS "OK"', 'CATEGORY AREA MISSING IN DB', 'SIMULATOR DOWN', 'SOMEONE HAS DIFFERENT CATEGORY-AREA TEMPLATE IN USER SETTINGS', 'ANY COMPONENT IS DOWN', 'TIBCO CONNECTION DOWN', 'CANNOT ACHIEVE CONSISTENCY', 'WEB SOCKETS DOWN', 'UNIX TEAM MENTIONED IN EMAIL', 'LOADBALANCER FAILS',' ENV SUPPORT "FIXED" ISSUE', 'SOMEONE DOES NOT READ RESPONSE MESSAGE', 'WATCHLIST DOES NOT WORK', 'ENTITLEMENT PROBLEMS', 'ADDRESS ALREADY IN USE', 'GOOD JOB GUYS','SOMEONE TRIES TO TEST ALERTS BUT EVERY ENV IS FAILING', 'SMALL TALK ON CALL', 'POSTMAN AND CHROME OPENED AT THE SAME TIME', 'CERTIFICATE PROBLEM', '403 FORBIDDEN', 'JANUSZ FIX IN CODE', 'PROD ISSUE', ' MOONSHOT PROBLEMS', 'SOMEONE SENDS ENV SUPPORT STEP-BY-STEP SOLUTION AND AFTER 30 MINUTES THEY KNOW HOW TO FIX IT', 'GLOBAL BROKER INCIDENT', 'NOT FOLLOWING RELEASE NOTES', 'PROPERTY SET TO REALLY STRANGE VALUE', 'RETRO/SPRINT PLANNING POSTPONED', 'AUTOMATION FRAMEWORK FAILS', 'JEDIS DOWN', 'DEPLOYMENT FAILED'];
+
+
+var table = document.querySelector('#table');
+
+function getRandomInt(min, max) {
+  return Math.floor(Math.random() * (max - min + 1) + min);
+}
+
+for (var i = 5; i > 0; i--) {
+      var row = document.createElement('tr');
+
+      for (var b = 5; b > 0; b--) {
+        elem = document.createElement('td');
+        var index = getRandomInt(0, questions.length - 1 );
+        
+        elem.innerHTML = b === 3 && i === 3 ? 'BINGO'
+        : "" + questions.splice(index, 1);
+		
+		elem.setAttribute('class', b === 3 && i === 3 ? 'bingo' : '');
+        row.appendChild(elem)
+      }
+      table.appendChild(row);
+    }
+</script>
+
+</body>
+</html>
