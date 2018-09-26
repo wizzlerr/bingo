@@ -1,6 +1,6 @@
 # bingo
 
-Printng template [here](https://wizzlerr.github.io/bingo/)
+Printing template [here](https://wizzlerr.github.io/bingo/)
 
 ## Rules
 
