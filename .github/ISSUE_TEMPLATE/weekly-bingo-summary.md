@@ -4,7 +4,7 @@ about: bingo summary for each week
 
 ---
 
-#Scores for week number:
+# Scores for week number:
 
 **Scoring**
 
@@ -13,7 +13,7 @@ about: bingo summary for each week
 3. King bingo - 4 points + 1 point for each bingo above 2
 4. Having ratio of scoring_templates/printed_templates less than 50% decreses your points accordingly : your_final_points = scored_points * 100% - (50% - ratio)
 
-##Scoreboard
+## Scoreboard
 
 Name| Small bingo | Bingo | King bingo | Printed templates | Scoring templates | Total score
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
