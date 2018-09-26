@@ -5,8 +5,9 @@ Printing template [here](https://wizzlerr.github.io/bingo/)
 ## Rules
 
 1. Game resets every monday
-2. Person with most points wins
-3. Declaring scores should be done by going to active week issue and putting comment
+2. Game is locked every friday at 4:30 PM CEST
+3. Person with most points wins
+4. Declaring scores should be done by going to active week issue and putting comment
 
 **Bingo types**
 
