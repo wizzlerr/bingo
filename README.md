@@ -30,12 +30,8 @@ Printing template [here](https://wizzlerr.github.io/bingo/)
 4. You cannot cross out ongoing events (e.g. ongoing issue that gets updates couple times a day)
 5. You cannot forcibly check components/environemnts (it must be related to your task)
 6. You cannot forcibly check logs (it must be related to your task)
-7. Events in logs are first come first served
-8. Events at meeting apply to everyone
-9. Business logic events are first come first served
-10. Evnironment events are first come first served
-11. Issues under investigation events (e.g. for person A functionality works, for B and C does not) apply to everyone
-12. Not mentioned events or crossin-out related activities must be discussed upon and resolved. Finalizing in adding a new rule here
+7. Events should be announced verbaly and everyone can cross out given event
+8. Not mentioned events or crossin-out related activities must be discussed upon and resolved. Finalizing in adding a new rule here
 
 **Template printing**
 
