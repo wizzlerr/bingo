@@ -47,5 +47,5 @@ Printing template [here](https://wizzlerr.github.io/bingo/)
 Bingo type/Printed templates | 1 | 2 | 3
 ------------ | ------------- | ------------- | -------------
 **Small bingo** | You can print 1 template | You can print 1 template | You can print 1 template
-**Bingo** | You can print 2 templates | You can print 1 template | You can print 1 template
+**Bingo** | You can print 2 templates | You can print  templates | You can print 1 template
 **King bingo** | You can print 3 templates | You can print 3 templates | You can print 3 templates if marked at least 3 bingos
