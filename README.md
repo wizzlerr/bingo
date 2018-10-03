@@ -25,13 +25,12 @@ Printing template [here](https://wizzlerr.github.io/bingo/)
 **Marking/Crossing out**
 
 1. You can cross out events that happened **AFTER** printing template
-2. You can cross out events that only happened directly to you
-3. You cannot cross out events that happened in past
-4. You cannot cross out ongoing events (e.g. ongoing issue that gets updates couple times a day)
-5. You cannot forcibly check components/environemnts (it must be related to your task)
-6. You cannot forcibly check logs (it must be related to your task)
-7. Events should be announced verbaly and everyone can cross out given event
-8. Not mentioned events or crossin-out related activities must be discussed upon and resolved. Finalizing in adding a new rule here
+2. You cannot cross out events that happened in past
+3. You cannot cross out ongoing events (e.g. ongoing issue that gets updates couple times a day)
+4. You cannot forcibly check components/environemnts (it must be related to your task)
+5. You cannot forcibly check logs (it must be related to your task)
+6. Events should be announced verbaly and everyone can cross out given event
+7. Not mentioned events or crossin-out related activities must be discussed upon and resolved. Finalizing in adding a new rule here
 
 **Template printing**
 
