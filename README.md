@@ -18,8 +18,8 @@ Printing template [here](https://wizzlerr.github.io/bingo/)
 
 **Scoring**
 
-1. Small bingo - 3 points
-2. Bingo - 5 points
+1. Small bingo - 1 points
+2. Bingo - 2 points
 3. King bingo - 2^(number of bingos)
 4. Lucky bingo - 3 points
 
