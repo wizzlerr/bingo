@@ -11,19 +11,17 @@ Printing template [here](https://wizzlerr.github.io/bingo/)
 
 **Bingo types**
 
-1. Micro bingo - you mark 3 consecutive fields
-2. Small bingo - you mark 4 consecutive fields that have **BINGO** as middle field
-3. Bingo - you mark 5 consecutive fields
-4. King bingo - you mark at least 2 bingos at the same time
-5. Lucky bingo - you mark more than 12 fields
+1. Small bingo - you mark 4 consecutive fields that have **BINGO** as middle field
+2. Bingo - you mark 5 consecutive fields
+3. King bingo - you mark at least 2 bingos at the same time
+4. Lucky bingo - you mark more than 12 fields
 
 **Scoring**
 
-1. Micro bingo - 1 point
-2. Small bingo - 3 points
-3. Bingo - 5 points
-4. King bingo - 2^(number of bingos)
-5. Lucky bingo - 3 points
+1. Small bingo - 3 points
+2. Bingo - 5 points
+3. King bingo - 2^(number of bingos)
+4. Lucky bingo - 3 points
 
 **Marking/Crossing out**
 
@@ -49,5 +47,6 @@ Printing template [here](https://wizzlerr.github.io/bingo/)
 Bingo type/Printed templates | 1 | 2 | 3
 ------------ | ------------- | ------------- | -------------
 **Small bingo** | You can print 1 template | You can print 1 template | You can print 1 template
+**Lucky bingo** | You can print 1 template | You can print 1 template | You can print 1 template
 **Bingo** | You can print 2 templates | You can print 2 templates | You can print 1 template
 **King bingo** | You can print 3 templates | You can print 3 templates | You can print 3 templates if marked at least 3 bingos
